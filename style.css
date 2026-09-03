@@ -1,10 +1,10 @@
 body {
-    background-color: #9E366D; 
+    background-color: #9E366D;
     color: #000000;
-    font-family: Lora, sans-serif;
+    font-family: 'Lora', serif; /* Cambiado a serif y con comillas */
 }
 
 h1 {
     color: #000000;
-    font-family: Georgia, serif; 
+    font-family: 'Georgia', serif;
 }
